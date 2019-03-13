@@ -9712,9 +9712,9 @@ body {
 
 @keyframes navhov {
   to {
-    background-color: red;
+    background-color: orange;
     color: black;
-    border: 1px solid red;
+    border: 1px solid orange;
   }
 }
 .opacityp {
@@ -9730,7 +9730,7 @@ body {
 
 .card-img-top {
   width: 100%;
-  height: 200px;
+  height: 250px;
   border-top-left-radius: calc(0.25rem - 1px);
   border-top-right-radius: calc(0.25rem - 1px);
 }

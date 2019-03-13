@@ -60,9 +60,9 @@ body {
 
 @keyframes navhov{
 from{}
-to{background-color: red;
+to{background-color: orange;
   color: black;
-  border: 1px solid red;}
+  border: 1px solid orange;}
 }
 .opacityp{
   opacity: .7;
@@ -75,7 +75,7 @@ to{background-color: red;
 }
 .card-img-top {
   width: 100%;
-  height: 200px;
+  height: 250px;
   border-top-left-radius: calc(0.25rem - 1px);
   border-top-right-radius: calc(0.25rem - 1px);
 }

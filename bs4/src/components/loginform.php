@@ -1,4 +1,4 @@
-<form class="m-auto bg-warning">
+<form class="m-auto col-lg-9 bg-warning">
 
   <div class="alert alert-warning text-center" role="alert">
   <small>
