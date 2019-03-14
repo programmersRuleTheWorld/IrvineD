@@ -1,6 +1,6 @@
-<nav class="navbar navbar-dark bg-transparent mt-3">
-  <a class="navbar-brand text-warning font-weight-bold" href="#">Bertram Technologies</a>
-  <button class="navbar-toggler bg-warning" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-md bg-warning col-lg-9 mt-3 ml-auto mr-auto">
+  <a class="navbar-brand text-dark bg-warning font-weight-bold" href="#">Bertram Technologies</a>
+  <button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
