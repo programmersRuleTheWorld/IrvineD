@@ -1,10 +1,4 @@
 <form class="col-lg-9 m-auto bg-warning">
-
-  <div class="alert alert-warning text-center" role="alert">
-  <small>
-  Need a website or mobile app created, repaired or tested? Fill out the form below and let us know how we can help you!
-  </small>
-  </div>
   <div class="row">
 <div class="form-group col-sm text-dark">
 <label for="First name">First Name</label>
@@ -17,7 +11,7 @@
 </div>
   <div class="row">
 <div class="form-group col-sm text-dark">
-<label for="email">Email address (this will be your new username)</label>
+<label for="email">Email address</label>
 <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
 </div>
 <div class="form-group col-sm text-dark">
