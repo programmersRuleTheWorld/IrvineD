@@ -67,13 +67,13 @@ to{background-color: orange;
 .opacityp{
   opacity: .7;
 }
-.pagebutton:hover{
-  animation-name: navhov;
-  animation-duration: 1s;
-  animation-direction: forwards;
-  animation-fill-mode: forwards;
-}
 .card-img-top {
+  width: 100%;
+  height: 200px;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+}
+.card-img-profile {
   width: 100%;
   height: 250px;
   border-top-left-radius: calc(0.25rem - 1px);
