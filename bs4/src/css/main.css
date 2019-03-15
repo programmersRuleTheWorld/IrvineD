@@ -9665,6 +9665,17 @@ html {
   background-size: cover;
   background-position: 100% top;
   background-attachment: fixed;
+  font-size: 1rem;
+}
+@media (min-width: 320px) {
+  html {
+    font-size: 0.9rem;
+  }
+}
+@media (min-width: 760px) {
+  html {
+    font-size: 1rem;
+  }
 }
 
 body {
@@ -9754,7 +9765,7 @@ select.form-control:focus::-ms-value {
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   line-height: inherit;
   white-space: nowrap;
 }
