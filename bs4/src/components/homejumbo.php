@@ -1,4 +1,4 @@
-<div class="jumbotron col-xl-11 ml-auto mr-auto bg-warning">
-<h3>Preserving your digital assets and helping you grow.</h3>
+<div class="jumbotron col-lg-9 ml-auto mr-auto bg-warning">
+<div class="text-center"><h6>Preserving your digital assets and helping you grow.</h6></div>
 <?php include('src/components/homepagecards.php'); ?>
 </div>
