@@ -11,10 +11,8 @@
   <body>
     <div class="container-fluid opacityp">
 <?php
-include('src/components/navbar.php');
-include('src/components/homepagediversion.php');
-include('src/components/homecarousel.php');
 include('src/components/homejumbo.php');
+include('src/components/clientapp.php');
 include('src/js/scripts.php');
 ?>
 </div>
